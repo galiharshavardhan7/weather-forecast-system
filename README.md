@@ -11,3 +11,8 @@ A Linux shell scripting project.
 
 chmod +x get_wheather.sh
 ./get_wheather.sh
+
+
+
+one new file added
+
